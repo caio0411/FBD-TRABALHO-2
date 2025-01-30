@@ -284,15 +284,5 @@ conn = psycopg.connect(
 - **Documentação:** Mantenha comentários nos scripts para explicar cada parte durante a apresentação.
 - **Backup:** Faça backup do banco de dados antes de executar scripts que modificam dados ou estrutura, para evitar perda de informações durante testes.
 
-## Contato para Dúvidas
 
-Caso surjam dúvidas durante a execução dos scripts ou preparação para a apresentação, entre em contato com os monitores responsáveis:
 
-- **Lucas Sena:** lucas.sena@lsbd.ufc.br
-- **Lucas Cabral:** lucas.cabral@lsbd.ufc.br
-
-**Nota:** Ao enviar e-mails, coloque ambos os monitores em cópia.
-
----
-
-**Boa sorte na sua apresentação!**
